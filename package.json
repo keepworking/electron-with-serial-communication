@@ -1,0 +1,23 @@
+{
+  "name": "electron-with-serial-communication",
+  "version": "1.0.0",
+  "description": "electron serial communication tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keepworking/electron-with-serial-communication.git"
+  },
+  "author": "keepworking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keepworking/electron-with-serial-communication/issues"
+  },
+  "homepage": "https://github.com/keepworking/electron-with-serial-communication#readme",
+  "devDependencies": {
+    "electron": "^1.8.6"
+  }
+}
